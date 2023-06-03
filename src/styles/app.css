@@ -1,0 +1,9 @@
+body {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+    background-color: rgb(35, 39, 46);
+    font-family: 'Montserrat';
+}
